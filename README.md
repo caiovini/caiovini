@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/caiovinireis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiovinireis" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/caiovinireis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiovinireis" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.xing.com/profile/CaioVinicius_NascimentoReis" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="caiovinireisxing" height="40" width="40" /></a>
 </p>
 
 
