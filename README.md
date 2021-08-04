@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="caiovinireis" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caiovinireis/en-us?trk=profile-badge">Caio Vinicius Nascimento Reis</a></div>
+<a href="https://linkedin.com/in/caiovinireis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiovinireis" height="40" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
